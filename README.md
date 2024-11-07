@@ -19,3 +19,5 @@ Hough Transform: Used to detect straight lines in the image.
 Lines are filtered based on their slope and length to ensure they correspond to the lanes.
 4. Lane Line Overlay:
 Detected lanes are drawn onto the original image for visualization.
+
+https://github.com/user-attachments/assets/3bcc7a96-68f0-4d2b-8d8c-9aff73db660c
